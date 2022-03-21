@@ -5,7 +5,7 @@
 ## Table of Contents
 #| Name | Description 
 -| ---- | ----------- 
-1| [FPT University Certificates Folder](./1-fpt-university) | -
+1| [FPT University Certificates Folder](./1-fpt-university) | All of my achievements in FPT University HCMC
 2| [IT Certificates Folder](./2-information-technology) | -
 3| [Volunteer Certificates Folder](./3-volunteer) | -
 4| [Graduation Diploma Folder](./4-graduation) | -
