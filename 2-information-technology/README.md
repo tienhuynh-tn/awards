@@ -1,4 +1,4 @@
-# FPT University Certificates
+# Information Technology Specialization Certificates
 
 :trophy: All of my achievements in Information Technology Specialization :trophy:
 
