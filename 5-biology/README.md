@@ -13,7 +13,7 @@
 6| [Le Quy Don awards](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/5-biology/Le-Quy-Don-award-2014-2015.jpg) | - | Consolation Prize | 22.04.2015 | Director of Department Education and Training Tay Ninh Province
 7| [Certificate of Second Prize in Biology Subject at the Provincial exam for excellent students](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/5-biology/second-prize-2015-2016.jpg) | - | Second Prize | 10.05.2016 | Chairman of Tay Ninh City Study Promotion Association
 8| [Certificate of Second Prize in Biology Subject at the Provincial exam for excellent students](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/5-biology/second-prize-2015-2016-school.jpg) | - | Second Prize | 16.05.2016 | Rector of Thuc Nghiem High School
-9| [Certificate of Consolation Prize in Biology Subject at the Provincial exam for excellent students](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/5-biology/second-prize-2014-2015.jpg) | - | Consolation Prize | 12.05.2016 | Rector of Thuc Nghiem High School
+9| [Certificate of Consolation Prize in Biology Subject at the Provincial exam for excellent students](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/5-biology/second-prize-2014-2015.jpg) | - | Consolation Prize | 12.05.2016 | Rector of Thuc Nghiem Secondary School
 
 ## License & Copyright
 &copy; 2022 Tien Huynh tienhuynh-tn Licensed under the [GNU General Public License v3.0 LICENSE](https://github.com/tienhuynh-tn/awards/blob/main/LICENSE).
