@@ -12,7 +12,7 @@
 5| [Computer Commnunications](https://github.com/tienhuynh-tn/awards/blob/main/2-information-technology/Coursera-Computer-Comunications.pdf) | - | - | 20.02.2021 | Coursera
 6| [Academic Skills for University Success](https://github.com/tienhuynh-tn/awards/blob/main/2-information-technology/Coursera-Academic-Skills-for-University-Success.pdf) | - | - | 08.12.2020 | Coursera
 7| [General Vocational Certificate](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/2-information-technology/general-vocational-certificate-2018.jpg) | - | Good grade | 24.09.2018 | Vice Director of Department Education and Training
-8| [General Vocational Certificate](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/2-information-technology/general-vocational-certificate-2018.jpg) | - | Good grade | 10.05.2013 | Vice Director of Department Education and Training
+8| [General Vocational Certificate](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/2-information-technology/general-vocational-certificate-2013.jpg) | - | Good grade | 10.05.2013 | Vice Director of Department Education and Training
 
 ## License & Copyright
 &copy; 2022 Tien Huynh tienhuynh-tn Licensed under the [GNU General Public License v3.0 LICENSE](https://github.com/tienhuynh-tn/awards/blob/main/LICENSE).
