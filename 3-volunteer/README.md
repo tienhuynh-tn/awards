@@ -12,7 +12,7 @@
 5| [Certificate Of Excellent Member](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/3-volunteer/siti-excell-mem-2020-fall.jpg) | Certificate for the member with outstanding work, tireless effort, and constant support for the club and its projects for the semester | - | 16.12.2020 (Semester Fall 2020 - Semester 1/9) | Mentor of SiTiGroup Club
 6| [Certificate Of Excellent Member](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/3-volunteer/siti-excell-mem-2020-summer.jpg) | Certificate for the member with outstanding work, tireless effort, and constant support for the club and its projects for the semester | - | 25.09.2020 (Semester Summer 2020 - Semester 0/9) | President of SiTiGroup Club
 7| [Certificate of Voluntary Blood Donation](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/3-volunteer/voluntary-blood-donation-2021.jpg) | - | - | 30.01.2021 | -
-8| [Certificate of Voluntary Blood Donation](https://github.com/tienhuynh-tn/awards/blob/main/3-volunteer/voluntary-blood-donation-2020.jpg) | - | - | 23.06.2020 | -
+8| [Certificate of Voluntary Blood Donation](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/3-volunteer/voluntary-blood-donation-2020.jpg) | - | - | 23.06.2020 | -
 9| [Certificate of Voluntary Blood Donation](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/3-volunteer/voluntary-blood-donation-2019.jpg) | - | - | 19.12.2019 | -
 10| [Certificate of Participation in Green Summer Project](https://raw.githubusercontent.com/tienhuynh-tn/awards/main/3-volunteer/green-summer-project-2029.jpg) | Successfully contributed and completely during the project from 29.06.2019 to 28.07.2019 | - | - | Director & Sponsor of Green Summer Project
 
