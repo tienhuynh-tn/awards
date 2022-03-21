@@ -8,7 +8,7 @@
 1| [FPT University Certificates Folder](./1-fpt-university) | All of my achievements in FPT University HCMC
 2| [IT Certificates Folder](./2-information-technology) | All of my achievements in Information Technology Specialization
 3| [Volunteer Certificates Folder](./3-volunteer) | All of my achievements in Volunteering
-4| [Graduation Diploma Folder](./4-graduation) | -
+4| [Graduation Diploma Folder](./4-graduation) | My graduation diploma certificates
 5| [Biology Certificates Folder](./5-biology) | -
 6| [Traffic Safety Certificates Folder](./6-traffic) | -
 7| [Association & Letters and Arts Honors and Awards Folder](./7-union-&-letters-and-arts) | -
