@@ -17,6 +17,6 @@
 10| [Maths Certificates Folder](./9-maths) | Achievement in Mathematics
 11| [Physics Certificates Folder](./9-physics) | Achievement in Physics
 ## License & Copyright
-&copy; 2022 Tien Huynh tienhuynh-tn Licensed under the [GNU General Public License v3.0 LICENSE](https://github.com/tienhuynh-tn/awards/blob/main/LICENSE).
+&copy; 2023 Tien Huynh tienhuynh-tn Licensed under the [GNU General Public License v3.0 LICENSE](https://github.com/tienhuynh-tn/awards/blob/main/LICENSE).
 
 > :love_you_gesture: Feel free to use my repository and star it if you find something interesting :love_you_gesture:
